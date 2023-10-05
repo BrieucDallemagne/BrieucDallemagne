@@ -1,7 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Dallemagne Brieuc, an Engineering student at Uclouvain University
 
-
-### Social media profiles
 ### Social media profiles
 <p align="left">
 <a href="https://www.facebook.com/brieuc.dallemagne"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
